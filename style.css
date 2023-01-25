@@ -1,0 +1,29 @@
+ 
+#tab {
+	width:50.6%;
+	border-color: red;
+	text-align:center; 
+	 
+}
+#table {
+	width:50.6%;
+	 
+	text-align:center; 
+	
+}
+ 
+.col {
+	background-color: yellow;
+}
+.photo2, .photo1{
+	text-align: center;
+	
+}
+ img{
+	border:3px solid red;
+	width: 400px;
+	height: 200px;
+ }
+ #tabl{
+	margin-left: 430px;
+ }
